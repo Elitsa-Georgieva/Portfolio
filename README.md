@@ -1,12 +1,6 @@
 # Portfolio
 - [About me](#about-me)
-# More info
-fjdaslfdjl
-# D;ljkdsfj
-sldf;alfja'jfjc'
-dscfklsjfdlsajfd
-dsafcllslksdak
-sacclascflk
+
 # About me
 Motivated and detail-oriented QA specialist with hands-on experience in both
 manual and automated testing, gained through comprehensive coursework and
