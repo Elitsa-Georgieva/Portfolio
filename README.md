@@ -1,6 +1,7 @@
 # Portfolio
 - [About me](#about-me)
 - [CV](#cv)
+- [Project Online Web Store app tests](#project-online-web-store-app-tests)
 
 # About me
 Motivated and detail-oriented QA specialist with hands-on experience in both
@@ -12,4 +13,6 @@ It is a crucial step in my current career goal — to become a mid-level softwar
 tester in next 3 to 5 years.
 # CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1PoMk4FYaXV-uanfRYiucJonfiKFF5Qp6/view?usp=drive_link)
-
+# Project Online Web Store app tests
+(test planning, test execution, and bug reporting)
+- [The training webshop](http://shop.demoqa.com/) was used to create demo test cases
