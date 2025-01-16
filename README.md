@@ -14,7 +14,7 @@ tester in next 3 to 5 years.
 # CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1PoMk4FYaXV-uanfRYiucJonfiKFF5Qp6/view?usp=drive_link)
 # Project Online Web Store app tests
-(test planning, test execution, and bug reporting)
+(test planning, manual test execution, and bug reporting)
 
 System environment 
 
