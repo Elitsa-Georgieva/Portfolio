@@ -27,6 +27,9 @@ Tasks
     - Every Use case has at least 1 test case, specially written for it [Google Sheets Test cases template](https://docs.google.com/spreadsheets/d/1MqoQjIOAdlWWm7w45GqTdQ_bRJnBnkie/edit?usp=sharing&ouid=117075589070239067032&rtpof=true&sd=true)
 
   - Bug report [Google sheets file](https://docs.google.com/spreadsheets/d/1fsWdMotgzT9D3M6GnYDFOkOtpB4wZqA97Kt-UZuOsiI/edit?gid=517650332#gid=517650332)
+  - SeleniumIDE Automated Test Cases
+
+     - Automated 5 manual test cases using SeleniumIDE 
 
 Resources
 - [The training webshop](https://demo.opencart.com/) was used to create demo test cases
