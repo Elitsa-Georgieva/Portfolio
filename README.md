@@ -2,6 +2,7 @@
 - [About me](#about-me)
 - [CV](#cv)
 - [Project Online Web Store app tests](#project-online-web-store-app-tests)
+- [Project Postman Tests](#project-postman-tests)
 
 # About me
 Motivated and detail-oriented QA specialist with hands-on experience in both
@@ -33,3 +34,6 @@ Tasks
 
 Resources
 - [The training webshop](https://demo.opencart.com/) was used to create demo test cases
+
+
+# Project Postman Tests
