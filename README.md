@@ -29,7 +29,7 @@ Tasks
   - Bug report [Google sheets file](https://docs.google.com/spreadsheets/d/1fsWdMotgzT9D3M6GnYDFOkOtpB4wZqA97Kt-UZuOsiI/edit?gid=517650332#gid=517650332)
   - SeleniumIDE Automated Test Cases
 
-     - Automated 5 manual test cases using SeleniumIDE 
+     - Automated 5 manual test cases using SeleniumIDE [.side file](https://github.com/Elitsa-Georgieva/Portfolio-in-progress/blob/main/web_store_test-cases_automated_with_SeleniumIDE.side)
 
 Resources
 - [The training webshop](https://demo.opencart.com/) was used to create demo test cases
